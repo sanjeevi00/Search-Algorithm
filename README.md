@@ -18,7 +18,7 @@ To write a program to perform linear search and binary search using python progr
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
 i)	#Use a linear search method to match the item in a list.
-```
+```python
 
 ''' 
 Program for linear search method to match the item in a list
@@ -48,7 +48,7 @@ else:
 
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
-```
+``` python
 
 
 ''' 
@@ -81,7 +81,7 @@ else:
 
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
-```
+```python
 
 
 
